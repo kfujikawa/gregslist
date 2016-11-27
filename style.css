@@ -13,6 +13,11 @@
 			height: 50px;
 			text-align: right;
 		}
+			h2{
+				font-weight: lighter;
+				font-size: 19px;
+				padding-left: 10px;
+			}
 			.logo{
 				position: absolute;
 				top: 25%;
@@ -21,7 +26,7 @@
 				list-style: none;
 				position: relative;
 				display: inline-block;
-				right: 30px;
+				right: 15px;
 				top: 25%;
 			}
 				a:link{
